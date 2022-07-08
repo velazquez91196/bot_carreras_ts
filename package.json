@@ -1,0 +1,15 @@
+{
+  "name": "test-haxball",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && browserify stage/room.js -o dist/room.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/haxball-headless-browser": "^0.1.0",
+    "browserify": "^17.0.0"
+  }
+}
