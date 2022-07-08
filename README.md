@@ -1,6 +1,9 @@
 ## your-room-script-name
 *This servers script allows players to... (your description here)*
 
+<br>
+<br>
+
 ---
 
 This room script has been coded with:
@@ -15,14 +18,14 @@ Code a super-stable Haxball Server and build it in seconds.
 - NPM
 
 ### Build and run
-[![asciicast](https://asciinema.org/a/4BhLWMRNvYGCUJBc4kul5z0De.svg)](https://asciinema.org/a/4BhLWMRNvYGCUJBc4kul5z0De)
-
 1. Fork this repository and clone it
 2. Navigate to cloned directory and run `npm install`
 3. Code your room in `src/`
-4. `npm run build`
+4. Build it into browser-ready script with `npm run build`
 5. Copy content of `dist/room.js`
 6. Paste it into Developer Console at https://haxball.com/headless
+
+![Usage](./usage.svg)
 
 The resulting code in `dist/room.js` has all the features packed and may be also run with other tools, like [Haxroomie](https://github.com/morko/haxroomie).
 
