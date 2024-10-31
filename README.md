@@ -1,5 +1,5 @@
-## your-room-script-name
-*This servers script allows players to... (your description here)*
+## BOT FNA
+Primer intento de agregar tipos al script
 
 <br>
 <br>
